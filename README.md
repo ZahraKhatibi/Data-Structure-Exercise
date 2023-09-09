@@ -48,4 +48,22 @@ The program constructs a Huffman tree based on the character frequencies and enc
 - Decoding of messages encoded with Huffman codes.
 - Efficient data compression and decompression.
 
+# Prefix Tree
 
+This C++ program implements a prefix tree, also known as a trie. A trie is a tree-like data structure used to efficiently store and retrieve a dynamic set of strings or keys. In this program, the trie is used to store a set of binary strings and count the occurrence of each unique binary string.
+
+## Overview
+
+The program reads the following input:
+
+- Number of binary strings (n).
+- For each binary string:
+  - The binary string itself.
+
+The program constructs a trie (prefix tree) based on the input binary strings and counts the occurrence of each unique binary string. It then prints the unique binary strings along with their counts.
+
+## Features
+
+- Trie (prefix tree) construction.
+- Counting the occurrence of unique binary strings.
+- Efficient storage and retrieval of binary strings.
