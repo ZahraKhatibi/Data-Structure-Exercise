@@ -1,5 +1,6 @@
+# Some implementations of data structure course in C++
 
-# Table of Contents
+## Table of Contents
 
 1. [Median Finder with AVL Tree](#median-finder-with-avl-tree)
 2. [k-Closest Points using Heap](#k-closest-points-using-heap)
