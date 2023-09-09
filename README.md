@@ -18,7 +18,7 @@ This C++ program finds the k closest points to the origin (0,0) from a given set
 
 ## Overview
 
-The program reads the number of points (n) and the value of k from the standard input. It then reads n points (x, y) and uses a min-heap to keep track of the k closest points. The distance of each point from the origin is calculated as (x^2 + y^2).
+The program reads the number of points (n) and the value of k from the standard input. It then reads n points (x, y) and uses a min-heap to keep track of the k closest points. The distance of each point from the origin is calculated as $(x^2 + y^2)$.
 
 ## Features
 
