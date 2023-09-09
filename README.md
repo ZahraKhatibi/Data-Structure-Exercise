@@ -6,37 +6,6 @@
 3. [Huffman Coding](#huffman-coding)
 4. [Prefix Tree](#prefix-tree)
 
-## Median Finder with AVL Tree
-
-This C++ program implements a median finder using an AVL tree data structure...
-
-[Read More](#median-finder-with-avl-tree)
-
-## k-Closest Points using Heap
-
-This C++ program finds the k closest points to the origin (0,0) from a given set of points...
-
-[Read More](#k-closest-points-using-heap)
-
-## Huffman Coding
-
-This C++ program implements Huffman coding, a widely-used lossless data compression algorithm...
-
-[Read More](#huffman-coding)
-
-## Prefix Tree
-
-This C++ program implements a prefix tree, also known as a trie...
-
-[Read More](#prefix-tree)
-
-
-
-
-
-
-
-
 # Median Finder with AVL Tree
 
 This C++ program implements a median finder using an AVL tree data structure. It allows you to efficiently find the median of a sequence of integers as they are inserted one by one.
