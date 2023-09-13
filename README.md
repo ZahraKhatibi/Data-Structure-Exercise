@@ -1,5 +1,7 @@
 # Some implementations of data structure course in C++
 
+![](pic.png) 
+
 ## Table of Contents
 
 1. [Median Finder with AVL Tree](#median-finder-with-avl-tree)
